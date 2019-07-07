@@ -6,7 +6,7 @@
 
 First, download ffmpeg for windows and put it under project directory.
 
-	python3 train_DNN.py
+	python3 trainer.py <data_directory> <model_output_directory>
 	
 Or you can train the model using UI.
 
